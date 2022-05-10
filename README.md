@@ -1,3 +1,6 @@
+# My-Tableau-Notes
+This a repository on my takeaways from exploring, learning and using Tableau.
+
 ## Introduction
 Tableau is a data visualization tool that allows you to create and share dashboards and reports.
 
