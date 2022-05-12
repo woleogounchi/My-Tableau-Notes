@@ -37,7 +37,6 @@ A story is a collection of visualizations that you can share with others.
 Stories are useful for conveying a persuasive narrative about the user's insights and understanding of the data.
 
 ## Formatting Guidelines
-
 Always give a **title** to your visualizations (on top of the chart) and with a bigger font size than anything else.
 
 Give **informative title** to the variables that are both on the x-axis and y-axis.
@@ -45,5 +44,17 @@ Give **informative title** to the variables that are both on the x-axis and y-ax
 Provide a **legend** that describes the meaning of the data.
 
 Use **colors** and **fonts** to increase legibility.
+
+## Dashboards
+A dashboard is a collection of several visualizations that makes it easy to compare data and help encover key insights.
+As the data is connected to the worksheets in the workbook, the dashboard will automatically update when the data is changed.
+Dashboards are interactive and allow users to drill down, explore, and interact with the data in order to discover insights.
+
+## Stories
+A story is a sequence of visualizations that could be used to convey a persuasive narrative about the user's insights and understanding of the data.
+Those visualization could be a chart, a table, a map, a video, or a combination of several visualizations that work together to convey information. Each individual story is called a **story point**.
+Because they tell narrative, stories can be used to make a compelling business case.
+
+
 
 
