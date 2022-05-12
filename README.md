@@ -31,11 +31,6 @@ Tableau even let users join data sources with inconsistent name by identifying f
 ## Cleaning Data
 Tableau allows you to clean data. For example, you can remove rows that contain missing values. A very quick and smart way to do this is to use the **Data Intepreter Tool**. In fact, if Tableau detects unique formatting or extra information after you set up the data source, the Data Interpreter option becomes available.
 
-## Stories
-Tableau is a powerful tool that allows you to create stories.
-A story is a collection of visualizations that you can share with others.
-Stories are useful for conveying a persuasive narrative about the user's insights and understanding of the data.
-
 ## Formatting Guidelines
 Always give a **title** to your visualizations (on top of the chart) and with a bigger font size than anything else.
 
